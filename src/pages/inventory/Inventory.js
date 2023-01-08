@@ -578,7 +578,7 @@ export default class Inventory extends Component {
     const { player } = world;
     return (
       <NavBar
-        title="包裹"
+        title="包裹hei"
         leftNavTitle="祈祷"
         rightNavTitle="储藏箱"
         onLeftPressed={this.onLeftPressed}
